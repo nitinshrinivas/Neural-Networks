@@ -4,6 +4,10 @@
 ## Assignment - 1
 Make a 3 layer NN from NLP using Pytorch and GloVe as the embedding
 
+
+--- please download the 50D GloVe file to run the code as the file of the size exceeds teh upload limit ---
+LINK : https://nlp.stanford.edu/data/glove.6B.zip
+ 
 #### The zip file contains 6 files
 1. source_code.py
 2. model_weights.pth
